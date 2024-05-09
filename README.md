@@ -1,6 +1,6 @@
 # Willkommen auf meinem Profil <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 28 year old Engineer from India who loves space and exoplanets. I am currently working as a SDE II, working on building a fintech bank platform. I am passionate about distrbiuted systems and solving hard challenges.
+I am a 28 year old Engineer from India who loves space and exoplanets. I am currently working as a Senior Fullstack, working on building Sendhelper. I am passionate about distrbiuted systems and solving hard challenges.
 
 I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe.
   
@@ -18,7 +18,7 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
   <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
 </p>
 
-- 🌌 I’m currently working at [Dkatalis Labs](https://dkatalis.co) as a SDE-II 
+- 🌌 I’m currently working at [Sendhelper](https://sendhelper.com) as a Senior Fullstack 
 - 👯 I am currently working on building scalable backend systems which can handle massive load and still provide <200ms response time. Exciting isn't it?
 - 👯 I’m happy to collaborate on any projects related to (but not limited to) scalable API's development, Distriuted backend systems.
 - ✨ Pronouns: He/him
